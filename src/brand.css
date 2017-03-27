@@ -1,0 +1,53 @@
+.test {
+  background: black;
+}
+
+.duplicateTest {
+  background: black;
+  color: white;
+}
+
+.foo {
+  top: 20px;
+  color: white;
+}
+
+.foo {
+  background: black;
+  color: white;
+}
+
+.baz {
+  top: 10px;
+}
+h1 {
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+
+h2 {
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.bar {
+  top: 20px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+
+h2 {
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+
